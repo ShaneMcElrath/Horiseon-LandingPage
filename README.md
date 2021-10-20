@@ -4,7 +4,7 @@
 A website that offers web marketing services.
 
 ## Screen Shot
-![ScreenShot](https://github.com/ShaneMcElrath/Horiseon-LandingPage/blob/main/Develop/assets/images/Screenshot1.png?raw=true "top")
+![ScreenShot](./Develop/assets/images/Screenshot1.png?raw=true "top")
 ![ScreenShot](https://github.com/ShaneMcElrath/Horiseon-LandingPage/blob/main/Develop/assets/images/Screenshot2.png?raw=true "mid")
 ![ScreenShot](https://github.com/ShaneMcElrath/Horiseon-LandingPage/blob/main/Develop/assets/images/Screenshot3.png?raw=true "bottom")
 
