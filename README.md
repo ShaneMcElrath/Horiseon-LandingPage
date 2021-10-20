@@ -7,6 +7,7 @@ A website that offers web marketing services.
 ![ScreenShot](/assets/images/Screenshot1.png?raw=true "top")
 ![ScreenShot](/assets/images/Screenshot2.png?raw=true "mid")
 ![ScreenShot](/assets/images/Screenshot3.png?raw=true "bottom")
+<img src="/assets/images/Screenshot3.png" width="400px" />
 
 ## Built With
 * Html
